@@ -37,8 +37,8 @@ subprojects {
                 applicationId = "com.github.metacubex.clash"
             }
 
-            minSdk = 30
-            targetSdk = 33
+            minSdk = 21
+            targetSdk = 32
 
             versionName = "2.5.11-pre03"
             versionCode = 205011
